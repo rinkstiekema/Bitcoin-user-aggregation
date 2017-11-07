@@ -1,13 +1,13 @@
-#Bitcoin user aggregation
+# Bitcoin user aggregation
 
-###Usages:
+### Usages:
 - Spark 
 - Hadoop
 - Scala
 - DataGraph
 - Pagerank
 
-###How to run:
+### How to run:
 First package the program:
 
 `sbt clean assembly`
